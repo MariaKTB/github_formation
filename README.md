@@ -7,7 +7,7 @@ Nathan tu pu bcp
 VCU>>>
 =======
 <<<<<<< HEAD
-Je trouve que romain est vraiment casse couille
+Je trouve que nathan est vraiment casse couille (signé : Kevin)
 =======
 Nathan tu pu
 >>>>>>> 5edf8c33271df15f4f186655123053a543dabbd0
@@ -18,7 +18,7 @@ Nathan tu pu bcp
 VCU>>>
 =======
 
-Je trouve que romain est vraiment casse couille
+Je trouve que romain est vraiment gentil
 Nathan tu pu
 
 > > > > > > > 5edf8c33271df15f4f186655123053a543dabbd0
