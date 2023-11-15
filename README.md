@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # github_formation
 
 Formation sur git github github desktop for VED
@@ -25,3 +26,5 @@ Nathan tu pu
 > > > > > > > 9b973aec8f6f7da5ad4b10bdfe74ac4ea49da495
 >>>>>>> de717762875e671888a0b7b2577da79cd0ea21da
 >>>>>>> 1d09edfb97140429ebff3e6a072098aa44a66744
+=======
+>>>>>>> b06c3b3dc48eb55e626e50dd03dd5e9ba67ea7ee
